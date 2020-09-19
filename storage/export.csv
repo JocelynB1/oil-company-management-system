@@ -1,0 +1,21 @@
+supplier_name,transaction_date,narration,product_type,liters,unit_price,supplier_rate,cost,payment_mode,cheque_number,bank_name,amount_paid,balance
+hjghj,2018-08-11,ghg,"Invoice Generated",0.00,0.00,,,5.00,kjhl,,,5
+hjghj,2018-08-11,ghg,"Invoice Paid",0.00,,,Cash,5.00,kjhl,,2.00,3
+hjghj,2018-08-11,"Payment to supplier",AGO,0.00,,,,0,,,3.00,0
+hjghj,2018-08-11,shortage,AGO,0,,0,,0,,,0.00,0
+,2018-08-13,"Expenses Payment",,0.00,0.00,,Cash,0,,,35.00,-35
+,2018-08-13,"Expenses Payment",,0.00,0.00,,Cash,0,,,45354.00,-45389
+hjghj,2018-08-13,"Expenses Payment",,0.00,0.00,,Prepaid,0,,,543.00,-45932
+hjghj,2018-08-15,"Stock Supplied",AGO,78777777.00,,7,,551444439.00,,,0.00,551398507
+hjghj,2018-08-29,AP,,,,,,0,,,,551398507
+hjghj,2018-08-29,AP,,,,,,0,,,-6767.00,551405274
+hjghj,2018-08-29,DOB,,,,,,0,,,-45454.00,551450728
+hjghj,2018-08-29,"Debt Opening Balance",,,,,,0,,,-45354.00,551496082
+hjghj,2018-08-29,"Debt Opening Balance",,,,,,0,,,-686.00,551496768
+hjghj,2018-08-31,"Debt Opening Balance",,,,,,1,,,,551496769
+hjghj,2018-08-31,"Debt Opening Balance",,,,,,2,,,,551496771
+hjghj,2018-08-31,"Payment Advance",,,,,,0,,,-2.00,551496773
+hjghj,2018-08-31,"Debt Opening Balance",,,,,,5,,,,551496778
+hjghj,2018-08-31,"Payment Advance",,,,,,0,,,5.00,551496773
+hjghj,2018-10-04,"Expenses Payment",,0.00,0.00,,Cash,0,,,76576.00,551420197
+hjghj,2018-10-04,,AGO,4565.00,6.00,,,27390,,,0.00,551447587
